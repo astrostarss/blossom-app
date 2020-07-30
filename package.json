@@ -1,0 +1,11 @@
+{
+  "name": "blossom-app",
+  "version": "1.0.0",
+  "description": "A chat app created by Astro :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Astro",
+  "license": "ISC"
+}
